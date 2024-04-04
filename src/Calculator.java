@@ -3,7 +3,7 @@ import java.awt.*;
 import java.awt.event.*;
 
 
-//TODO : να τραβαω τιμες απο xml file
+
 
 public class Calculator implements ActionListener {
 
@@ -214,7 +214,7 @@ public class Calculator implements ActionListener {
         if(e.getSource()==fileReaderButton){
 
             xmlParser.parseXML("C:\\Users\\lange\\IdeaProjects\\tests\\Calculator\\src\\tester.xml",textField);
-            textField.setText("1");
+            textField.setText(String.valueOf(result));
         }
 
     }

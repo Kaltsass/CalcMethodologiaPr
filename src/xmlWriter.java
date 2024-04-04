@@ -87,6 +87,7 @@
 
 
 
+
                 root.appendChild(number1);
                 root.appendChild(operator);
                 root.appendChild(number2);

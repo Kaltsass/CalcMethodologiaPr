@@ -4,26 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97068b6f-f982-49ba-b5e0-5f371fdb6b2f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkyong/xml/dom/xmlWriter2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myFile.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tester.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xmlParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xmlWriter.java" afterDir="false" />
+    <list default="true" id="97068b6f-f982-49ba-b5e0-5f371fdb6b2f" name="Changes" comment="first commit/attempt">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tester.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/tester.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xmlWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xmlWriter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="printScope" value="4" />
+    <option name="PRINT_LINE_NUMBERS" value="true" />
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -56,7 +51,8 @@
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/lange/IdeaProjects/tests/Calculator",
-    "onboarding.tips.debug.path": "C:/Users/lange/IdeaProjects/tests/Calculator/src/Main.java"
+    "onboarding.tips.debug.path": "C:/Users/lange/IdeaProjects/tests/Calculator/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -75,6 +71,19 @@
       <option name="presentableId" value="Default" />
       <updated>1711712799476</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit/attempt">
+      <option name="closed" value="true" />
+      <created>1712264553238</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712264553238</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit/attempt" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit/attempt" />
   </component>
 </project>
